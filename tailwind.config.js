@@ -6,6 +6,13 @@ module.exports = {
       center: true,
       padding: '2rem'
     },
+    extend: {
+      fontFamily: {
+        'Heebo': ['Heebo', 'sans-serif'],
+        'Poppins': ['Poppins', 'sans-serif'] 
+      },
+    }
+
   },
   variants: {
     extend: {},
